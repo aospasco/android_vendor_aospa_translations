@@ -43,4 +43,7 @@
     <string name="recents_lens_title">Lens</string>
     <string name="smartspace_pref_title">Resumo</string>
     <string name="smartspace_pref_summary">Mostrar o resumo no topo da tela inicial</string>
+    <string name="widget_category_weather">Clima</string>
+    <string name="hide_top_shadow_title">Ocultar sombra superior</string>
+    <string name="hide_top_shadow_summary">Remove a sombra abaixo da barra de status</string>
 </resources>

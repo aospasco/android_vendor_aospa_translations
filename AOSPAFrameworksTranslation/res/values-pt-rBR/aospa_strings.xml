@@ -28,4 +28,10 @@
     <string name="pocket_view_title_cancel">Para usar seu telefone:</string>
     <string name="pocket_view_top_tag_cancel">Verifique se a área azul do seu telefone está livre de obstruções e limpe qualquer sujeira ou poeira.</string>
     <string name="pocket_view_top_tag_cancel2">Pressione longamente o botão liga/desliga para forçar o encerramento do modo bolso.</string>
+    <string name="reboot_to_recovery_title">Recuperação</string>
+    <string name="reboot_to_recovery_message">Reiniciando na recuperação\u2026</string>
+    <string name="reboot_to_bootloader_title">Bootloader</string>
+    <string name="reboot_to_bootloader_message">Reiniciando no bootloader\u2026</string>
+    <string name="reboot_title">Reiniciar</string>
+    <string name="reboot_message">Reiniciando o sistema</string>
 </resources>
